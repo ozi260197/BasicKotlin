@@ -1,0 +1,6 @@
+# Tipe Data String
+- Tipe data string adalah tipe data yang berisi data kumpulan karakter atau sederhananya adalah teks.
+- Di kotlin, tipe data string dipresentasikan dengan kata kunci String.
+- Untuk membuat string di kotlin, kita bisa menggunakan
+    * ""(tanda petik 2) untuk teks satu baris
+    * """(tanda petik 2 sebanyak 3kali) untuk teks lebih dari satu baris / multi baris

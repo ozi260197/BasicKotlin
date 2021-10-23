@@ -1,0 +1,5 @@
+# Tipe data boolean
+- Tipe data boolean adalah tipe data yang hanya memiliki 2 nilai, yaitu benar atau salah (True or False)
+- Tipe data boolean di kotlin di presentasikan dengan kata kunci Boolean
+- Nilai benar di presentasikan dengan kata kunci True
+- Nilai salah di presentasikan dengan kata kunci False

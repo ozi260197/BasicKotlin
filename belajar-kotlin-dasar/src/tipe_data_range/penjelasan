@@ -1,0 +1,18 @@
+# Tipe Data Range
+- Kadang kita ingin membuat array yang berisi data yang angka nya berurutan
+- Membuat array dengan jumlah data sedikit mungkin mudah, tapi bagaimana jika data angka yang berurutannya sangat banyak,
+    misal dari 1 sampai 1000
+- Kotlin mendukung tipe data range, yang digunakan untuk kebutuhan seperti ini
+- Cara membuat range di kotlin sangat mudah cukup menggunakan tanda ..(titik dua kali) :
+    * 0..10 : Range dari 0 sampai 10
+    * 1..100 : Range dari 1 sampai 100
+
+# Operasi Range
+
+Operasi                                             Keterangan
+
+count()                                             Mendapatkan total data di range
+contains(value)                                     Mengecek apakah terdapat value tersebut
+first                                               Mendapatkan nilai pertama
+last                                                Mendapatkan nilai terakhir
+step                                                Mendapatkan nilai tiap kenaikan

@@ -1,0 +1,24 @@
+# Variable
+- Variable adalah tempat untuk menyimpan data
+- Kotlin mendukung 2 jenis variable, Mutable(bisa diubah) dan immutable(tidak bisa diubah)
+- Untuk membuat variable Mutable, di kotlin bisa menggunakan kata kunci var
+- Untuk membuat variable Immutable, di kotlin bisa menggunakan kata kunci val
+
+Notes : Direkomendasikan menggunakan Immutable dibanding Mutable data
+
+-----------------------------------------------------------------------------------------------------------------------
+
+# Nullable
+- Secara standar, variable di kotlin harus di deklarasikan / di inisialisasikan nilai nya
+- Jika saat membuat variable, tidak diberi nilai, maka akan error
+- Kotlin mendukung variable yang boleh null (tidak memiliki data)
+- Ini dikarenakan kotlin bisa mengakses java, dan kebanyakan di java, semua variable bisa null
+- Untuk membuat variable bisa bernilai null, di kotlin bisa menggunakan ?(tanda tanya) setelah tipe datanya
+- Penggunaan fitur ini tidak direkomdasikan untuk dilakukan di kotlin, hanya sebagai jalan akhir jika misal mengakses kode java
+
+-----------------------------------------------------------------------------------------------------------------------
+
+# Variable Constant
+- Constant adalah immutable data, yang biasanya di akses untuk keperluan Global.
+- Global artinya bisa diakses dimanapun
+- Untuk menandai bahwa variable tersebut adalah constant, biasa nya menggunakan UPPER_CASE dalam pembuatan nama variable constant nya

@@ -1,0 +1,4 @@
+# For Loops
+- Dalam bahasa pemerograman, biasanya ada fitur yang bernama perulangan
+- Salah satu fitur perulangan di kotlin adalah for
+- For digunakan untuk melakukan perulangan iterasi dari data iterator (Array,Range,dan lain-lain)

@@ -1,0 +1,3 @@
+# Tipe data character
+- Data karakter (huruf), di kotlin di presentasikan oleh tipe Char.
+- Untuk membuat data Char, di kotlin kita bisa menggunakan tanda ''(petik satu)

@@ -1,0 +1,4 @@
+# Do While Loops
+- Do while loop adalah perulangan yang hampir sama dengan While Loops
+- Yang membedakan adalah, pada Do While Loop, kode blok akan dijalankan dahulu, baru diakhir
+    dilakukan pengecekan kondisi

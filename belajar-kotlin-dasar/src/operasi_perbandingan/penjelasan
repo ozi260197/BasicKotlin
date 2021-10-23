@@ -1,0 +1,21 @@
+# Operasi perbandingan
+- Operasi perbandingan adalah operasi untuk membandingkan dua buah data
+- Operasi perbandingan adalah operasi yang menghasilkan nilai boolean Benar atau salah (True or False)
+- Jika hasil operasinya adalah benar, maka nilainya adalah True
+- Jika hasil operasinya adalah salah, maka nilainya adalah False
+
+# Operator Perbandingan
+
+Operator                                                    Keterangan
+
+>                                                           Lebih dari
+
+<                                                           Kurang dari
+
+>=                                                          Lebih dari samdengan
+
+<=                                                          Kurang dari samdengan
+
+==                                                          Sama Dengan
+
+!=                                                          Tidak samadengan

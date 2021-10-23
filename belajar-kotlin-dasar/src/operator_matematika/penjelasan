@@ -1,0 +1,28 @@
+# Operator Matematika
+
+Oerator                                     Keterangan
+
++                                           Penjumlahan
+-                                           Pengurangan
+*                                           Perkalian
+/                                           Pembagian
+%                                           Sisa pembagian
+
+# Augmented Assignments
+
+Operasi Matematika                                  Augmented Assignments
+a = a + 10                                          a += 10
+a = a - 10                                          a -= 10
+a = a * 10                                          a *= 10
+a = a / 10                                          a /= 10
+a = a % 10                                          a %= 10
+
+# Unary Operator
+
+Operator                                        Keterangan
+
+++                                              a = a + 1
+--                                              a = a - 1
+-                                               Negative
++                                               Positive
+!                                               Boolean kebalikan

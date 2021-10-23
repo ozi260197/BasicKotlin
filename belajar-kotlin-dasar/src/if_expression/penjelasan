@@ -1,0 +1,13 @@
+# If Expression
+- Dalam kotlin, if adalah salah satu kata kunci yang digunakan untuk percabangan
+- Percabangan artinya kita bisa mengeksekusi kode program tertentu ketika suatu kondisi terpenuhi
+- Hampir disemua bahasa pemrograman mendukung if expression
+
+# Else Expression
+- Blok if akan dieksekusi ketika kondisi if bernilai true
+- Kadang kita ingin melakukan eksekusi program tertentu jika kondisi if bernilai false
+- Hal ini bisa dilakukan menggunakan else expression
+
+# Else If Expression
+- Kadang dalam if, kita butuh membuat beberapa kondisi
+- Kasus seperti ini, di Kotlin kita bisa menggunakan Else if expression

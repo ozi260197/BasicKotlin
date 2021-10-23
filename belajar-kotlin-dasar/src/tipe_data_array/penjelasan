@@ -1,0 +1,25 @@
+# Tipe Data Array
+- Array adalah tipe data yang berisikan kumpulan data dengan tipe yang sama
+- Tipe data array di kotlin di presentasikan dengan kata Array
+
+# Index di Array
+
+Index                                       Data
+
+0                                           FirstName
+1                                           Middlename
+2                                           Lastname
+
+# Operasi Array
+
+Operasi                                     Keterangan
+
+size                                        Untuk mendapatkan panjang array
+get(index)                                  Mendapatkan data di posisi index
+[index]                                     Mendapatkan data di posisi index
+set(index, value)                           Mengubah data di posisi index
+[index] = value                             Mengubah data di posisi index
+
+# Array Nullable
+- Secara standar, data di Array di kotlin tidak boleh null
+- JIka kita butuh membuat Array yang datanya boleh null, kita bisa menggunakan ?(tanda tanya) setelah menyebutkan tipe data nya
