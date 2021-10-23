@@ -11,14 +11,16 @@ fun main() {
         "Muhammad Zein",
         "Muhammad Adli Ilham",
         "Eko Rahmadeni",
-        "Ade Septian"
+        "Ade Septian",
+        "Adinda"
     )
     val age: Array<Int> = arrayOf(
         24,
         26,
         23,
         25,
-        27
+        27,
+        22
     )
 
     println("""
