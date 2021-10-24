@@ -11,7 +11,7 @@ fun main() {
         Create by       : $PEMBUAT
     """.trimIndent())
 
-    val nilai = 50
+    val nilai = 60
     var grade = 'A'
     when {
         nilai >= 90 -> grade = 'A'
